@@ -19,15 +19,19 @@ span {
 }
 
 #grey {
-  background: grey;
+  background: rgb(107, 105, 105);
 }
 
 #white {
   background: white;
 }
 #blue {
-  background: blue;
+  background: rgb(68, 68, 174);
 }
 #yellow {
-  background: yellow;
+  background: rgb(183, 183, 83);
 }
+#purple{
+    background-color: rgb(234, 39, 234);
+}
+
